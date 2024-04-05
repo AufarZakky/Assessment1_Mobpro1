@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Hitung bangun ruang</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Aplikasi ini saya buat untuk Assessment 1. Tujuan utama dari aplikasi ini adalah untuk membantu pengguna dalam menghitung volume beberapa bangun ruang sederhana. Dengan antarmuka yang sederhana dan mudah digunakan, pengguna dapat dengan cepat dan mudah menghitung volume bangun ruang tersebut.</string>
+    <string name="kembali">Kembali</string>
+    <string name="x_diklik">Data masih belum tersedia</string>
+    <string name="input_kosong">kubus</string>
+    <string name="challenge_intro">Hitung volume</string>
+    <string name="volume">Hasil: %1$.2f</string>
+    <string name="Luas_permukaan">luas permukaan: %1$.2f</string>
+    <string name="input_invalid">Input angka lebih dari 0!</string>
+    <string name="hitung">Hitung</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Hasil  hitung volume: %1$s cm</string>
+    <string name="balok">Mari menghitung volume bangun ruang balok, masukkan data ini dengan benar!</string>
+    <string name="kubus">Mari menghitung volume bangun ruang kubus, masukkan data ini dengan benar!</string>
+    <string name="tabung">Mari menghitung volume bangun ruang tabung, masukkan data ini dengan benar!</string>
+    <string name="buttonvolume">Volume</string>
+    <string name="buttonluas">Luas Permukaan</string>
+    <string name="sisi">Volume</string>
+    <string name="panjang">Volume</string>
+    <string name="lebar">Volume</string>
+    <string name="tinggi">Volume</string>
+    <string name="jarijari">Volume</string>
+    <string name="input_empty_error">Input tidak boleh kosong!</string>
+
+</resources>

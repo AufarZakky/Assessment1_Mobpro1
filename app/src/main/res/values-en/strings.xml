@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculate build space</string>
+    <string name="tentang_aplikasi">About the App</string>
+    <string name="copyright">I made this application for Assessment 1. The main purpose of this application is to assist the user in calculating the volume of several simple space builds. With a simple and easy-to-use interface, users can quickly and easily calculate the volume of the space</string>
+    <string name="kembali">Back</string>
+    <string name="x_diklik">Data is still not available</string>
+    <string name="challenge_intro">Calculate volume</string>
+    <string name="volume">Result: %1$.2f</string>
+    <string name="input_invalid">Input numbers more than 0!</string>
+    <string name="hitung">Calculate</string>
+    <string name="bagikan">Share</string>
+    <string name="bagikan_template">Calculation results: %1$s</string>
+    <string name="balok">Let\'s calculate the volume of the beam chamber build, enter this data correctly!</string>
+    <string name="kubus">Let\'s calculate the volume of the cube space build, enter this data correctly!</string>
+    <string name="tabung">Let\'s calculate the volume of the tube chamber wake, enter this data correctly!</string>
+    <string name="Luas_permukaan">Surface area: %1$.2F</string>
+    <string name="buttonvolume">Volume</string>
+    <string name="buttonluas">Surface area</string>
+    <string name="sisi">Side</string>
+    <string name="panjang">Length</string>
+    <string name="lebar">Width</string>
+    <string name="tinggi">Height</string>
+    <string name="jarijari">Radius</string>
+    <string name="input_empty_error">Input can\'t be empty!</string>
+    <string name="kubus1">1</string>
+    <string name="desc_kubus">1</string>
+    <string name="tabung1">1</string>
+    <string name="desc_tabung">1</string>
+    <string name="balok1">1</string>
+    <string name="desc_balok">1</string>
+</resources>
